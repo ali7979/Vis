@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Vis/static/css/main.95e9e490.chunk.css",
-    "main.js": "/Vis/static/js/main.2b07912c.chunk.js",
-    "main.js.map": "/Vis/static/js/main.2b07912c.chunk.js.map",
+    "main.css": "/Vis/static/css/main.4ba41ba4.chunk.css",
+    "main.js": "/Vis/static/js/main.79f47f35.chunk.js",
+    "main.js.map": "/Vis/static/js/main.79f47f35.chunk.js.map",
     "runtime-main.js": "/Vis/static/js/runtime-main.0fa8764c.js",
     "runtime-main.js.map": "/Vis/static/js/runtime-main.0fa8764c.js.map",
     "static/js/2.92cccbd5.chunk.js": "/Vis/static/js/2.92cccbd5.chunk.js",
     "static/js/2.92cccbd5.chunk.js.map": "/Vis/static/js/2.92cccbd5.chunk.js.map",
     "index.html": "/Vis/index.html",
-    "static/css/main.95e9e490.chunk.css.map": "/Vis/static/css/main.95e9e490.chunk.css.map",
+    "static/css/main.4ba41ba4.chunk.css.map": "/Vis/static/css/main.4ba41ba4.chunk.css.map",
     "static/js/2.92cccbd5.chunk.js.LICENSE.txt": "/Vis/static/js/2.92cccbd5.chunk.js.LICENSE.txt",
     "static/media/SortingVis.css": "/Vis/static/media/hello-denver-display.denver-display-regular-regular.42159269.ttf",
     "static/media/App.css": "/Vis/static/media/black bricks wallpaper 2015   Grasscloth Wallpaper.bf5530cd.jpg"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.0fa8764c.js",
     "static/js/2.92cccbd5.chunk.js",
-    "static/css/main.95e9e490.chunk.css",
-    "static/js/main.2b07912c.chunk.js"
+    "static/css/main.4ba41ba4.chunk.css",
+    "static/js/main.79f47f35.chunk.js"
   ]
 }
