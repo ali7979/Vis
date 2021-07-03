@@ -1,6 +1,5 @@
-#  React App.
 
-## Sorting Visualiser:-
+# Sorting Visualiser:-
 Visualisations of BUBBLE SORT , SELECTION SORT , INSERTION SORT , QUICK SORT , MERGE SORT
 
 
