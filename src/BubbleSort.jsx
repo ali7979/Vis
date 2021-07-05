@@ -28,7 +28,7 @@ async function BubbleSort(arr) {
         // block[j].style.height=block[j+1].style.height
        /* var temp = arr[j]
          arr[j] = arr[j + 1]
-         arr[j+1] = temp*/
+         arr[j +1] = temp*/
 
         var temp = block[j].style.height
         block[j].style.height = block[j + 1].style.height
