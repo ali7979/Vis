@@ -1,5 +1,5 @@
 
-# Sorting Visualiser:-
+# Sorting Visualizer:-
 Visualisations of BUBBLE SORT , SELECTION SORT , INSERTION SORT , QUICK SORT , MERGE SORT
 
 
